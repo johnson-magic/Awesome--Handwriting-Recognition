@@ -33,34 +33,13 @@ cvpr2022 | 2022 |[Aesthetic Text Logo Synthesis via Content-aware Layout Inferri
 |CASIA|Online and Offline Chinese Handwriting Databases|[CASIA](http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html)|
 |SCUT-EPT|offline handwritten Chinese text recognition (HCTR) in educational documents|[SCUT-EPT](https://github.com/HCIILAB/SCUT-EPT_Dataset_Release)|
 |NIST|Handprinted Forms and Characters Database|[NIST](https://www.nist.gov/srd/nist-special-database-19)|
+|HCL2000|The database contains 3,755 frequently used simplified Chinese-characters written by 1,000 different subjects|404|
 
-
-
-
-
-### 2.2 Comparison of datasets for table structure recognition
-TO DO
-
-## 3. Other technical solutions
-### 3.1 Relevant research institutions and scholars 
-- [document AI](https://www.microsoft.com/en-us/research/project/document-ai/)
+## 3. Other
+### 3.1 Relevant Tutorials and research group 
+- [Speech Recognition Toolkit](https://github.com/wenet-e2e/wenet)
   
-  - [Minghao Li](https://github.com/liminghao1630)
-  - [Yiheng Xu](https://github.com/ranpox)
-  
-  
-### 3.2 Related competitions
-- [ICDAR 2021 Competition on Scientific Literature Parsing](https://github.com/IBM/ICDAR2021-SLP) ([Task A on Document Layout Recognition](https://aieval.draco.res.ibm.com/challenge/41/overview))
-  
-  - First Place Method: [Davar-Lab-OCR: VSR](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_layout/VSR)
-  
-  
-
-### 3.3 Related lecture
-
-* 2021
-
-  * MSR: [Document AI: Benchmarks, Models and Applications (Presentation@ICDAR 2021)](https://www.microsoft.com/en-us/research/publication/document-ai-benchmarks-models-and-applications-presentationicdar-2021/)
+- [FAQ of OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_ch/FAQ.md)
 
   
 

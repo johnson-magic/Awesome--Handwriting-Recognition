@@ -41,6 +41,9 @@ cvpr2022 | 2022 |[Aesthetic Text Logo Synthesis via Content-aware Layout Inferri
   
 - [FAQ of OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.5/doc/doc_ch/FAQ.md)
 
+### 3.2 Relevant researcher
+Jun Du is Associate Professor of USTC. His research area includes Speech and Acoustics, Computer Vision and Multimodality. His [personal website](http://staff.ustc.edu.cn/~jundu/index.html) and [His google scholar](https://scholar.google.com.hk/citations?user=iHb6ScQAAAAJ&hl=zh-CN&oi=ao).
+
   
 
  
